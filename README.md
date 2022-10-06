@@ -1,8 +1,8 @@
 # Http_Implementation
 Http에 대한 고찰
 
-- Java 구현체
-- Java 주변 class && 상속
+- Java impl
+- Java extend class
 
 P.S
 - C impl
